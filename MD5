@@ -1,6 +1,6 @@
-8940c562f816e099aa75c5507205539c *DESCRIPTION
-3044e90e3c13c375b906b2f73f3f2612 *NAMESPACE
-4e226ce0a2a834eb9b80852c166c0365 *NEWS
+29b8a8622aee116d5f4b9a841be7d132 *DESCRIPTION
+dbcf646e30b7fe69d662216796808f20 *NAMESPACE
+a114e60ae27749d9a664c66412943e53 *NEWS
 08059dca1655d05801e3c06efdd7f35d *R/README.R
 6b88a3b8d710ca642baafcd731446352 *R/rstream.R
 fb9984471f1fb4ac46780a0ebe617adb *R/rstream_lecuyer.R
@@ -8,9 +8,9 @@ fc35016938ad202669a524a4c83b9d87 *R/rstream_mrg32k3a.R
 b36caf7e1ed07d6251f807a690bf299c *R/rstream_runif.R
 406e10cda13a78ab5cb0214cf9b247c8 *R/zzz.R
 061569f8103d18de3794be9ee23e209c *inst/doc/index.html
-4979daff323a92aa3083d961118e0906 *inst/doc/rstream.pdf
+289a04eeb031ff50e7c22bce4f5480bf *inst/doc/rstream.pdf
 8c4c8b5c1b569782041be38129a1b175 *man/rstream-class.Rd
-968357d828036a0943f923de02d31746 *man/rstream-package.Rd
+3378447df93d2c4e5cdc083eaccf9f75 *man/rstream-package.Rd
 d98b8c36dd9efa76b9c17c5e79afac5b *man/rstream.RNG.Rd
 bbcf1558a93e34cbddc18946350a611b *man/rstream.antithetic-methods.Rd
 451c01e66ad1c914913b413b99dd8929 *man/rstream.clone-methods.Rd
